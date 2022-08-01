@@ -1,3 +1,3 @@
 # Classfication-for-ECG-signal
 Project in EE115 2018F SIST , ShanghaiTech Universty
-*Copyright @2018*
+*Copyright (c) 2018*
